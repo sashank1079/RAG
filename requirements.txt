@@ -1,0 +1,17 @@
+langchain==0.3.11
+langchain-community==0.3.10
+langchain-core==0.3.24
+langchain-experimental==0.3.3
+langchain-openai==0.2.12
+langchain-pinecone==0.2.0
+langchain-text-splitters==0.3.2
+llama-index-core==0.12.5
+llama-parse==0.5.11
+pinecone-client==5.0.1
+pinecone-plugin-inference==1.1.0
+pinecone-plugin-interface==0.0.7
+aiohttp==3.9.5
+streamlit>=1.31.0
+scikit-learn
+torch>=2.1.0
+transformers>=4.36.0

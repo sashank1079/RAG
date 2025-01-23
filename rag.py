@@ -185,7 +185,7 @@ def main():
     ]
     
     # Clean output format
-    print("\n=== teleCalm Q&A System ===\n")
+    print("\n=== Q&A System ===\n")
     
     for question in questions:
         print(f"Q: {question}")

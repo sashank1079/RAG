@@ -138,15 +138,4 @@ Common issues and solutions:
 4. **Token Limits**: Adjust chunk size or implement token counting
 5. **Document Processing Errors**: Check file permissions and supported formats
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
